@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\app",
+    "\\app\\Http",
+    "\\app\\Http\\Controllers",
+    "\\app\\Http\\Middleware",
+    "\\public",
+    "\\resources",
+    "\\resources\\views",
+    "\\resources\\views\\bookings",
+    "\\resources\\views\\contacts"
+  ],
+  "SelectedNode": "\\public\\index.php",
+  "PreviewInSolutionExplorer": false
+}
